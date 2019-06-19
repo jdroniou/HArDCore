@@ -11,4 +11,4 @@ This page is merely a landing page to redirect you to the 2D or 3D codes:
 
 **HArDCore3D**
 
-*Coming soon...*
+*Coming soon... (hopefully by mid-July)*
