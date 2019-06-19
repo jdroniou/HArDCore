@@ -11,4 +11,4 @@ This page is merely a landing page to redirect you to the 2D or 3D codes:
 
 **HArDCore3D**
 
-*Coming soon... (hopefully by mid-July)*
+*Coming soon... (hopefully by mid-July). HArDCore3D is built to follow HArDCore2D, so that adapting a code from 2D to 3D only takes a minimal amount of time (it merely consist in changing some "edge" in the code into "faces", etc.)*
