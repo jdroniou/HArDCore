@@ -2,7 +2,7 @@
 
 HArDCore (Hybrid Arbitrary Degree::Core) is a set of two projects providing C++ libraries to implement 2D and 3D schemes, on general polytopal meshes, with main unknowns being polynomials in the mesh elements and on the mesh faces (hybrid methods).
 
-The library was designed with the Hybrid High-Order method in mind (see the book hthttps://hal.archives-ouvertes.fr/hal-02151813https://hal.archives-ouvertes.fr/hal-02151813tps://hal.archives-ouvertes.fr/hal-02151813), and several HHO methods are already implemented in this framework, but the tools provided in this library are useful for a range of hybrid methods.
+The library was designed with the Hybrid High-Order method in mind (see the book https://hal.archives-ouvertes.fr/hal-02151813), and several HHO methods are already implemented in this framework, but the tools provided in this library are useful for a range of hybrid methods.
 
 This page is merely a landing page to redirect you to the 2D or 3D codes:
 
