@@ -21,10 +21,11 @@ Although these 2D and 3D libraries are separate, they have been designed for an 
 - Executable parameters and mesh loading procedures have to be copied from an existing 3D example, and replace the equivalent 2D version
 - 2d/2D (e.g. in "Vector2d" or "HArDCore2D"): change into 3d/3D
 - edge (Edge): change into face (Face).
-- `std::function<double(double,double)>`: change into `std::function<double(double,double,double)>`
+- `std::function<double(double,double)>`: change into `std::function<double(double,double,double)>` (and similar)
 - .x() (and .x): correspond to functions of two variables (e.g. f(v.x(), v.y()) if v is Eigen::Vector2d) and quadrature nodes
 (q.x, q.y), to which a third variable .z should be added (into f(v.x(), v.y(), v.z()), etc.)
 - lambda functions: adapt to 3 variables
+- Function for visualisation (creation of a vtk/vtu file): copy from one of the existing 3D examples
 - Optionally, some variable names (e.g. `area`, etc.) could be changed to reflect the 3D version they now represent, but that's not mandatory.
 
 Experience with the schemes currently implemented in HArDCore2D and HArDCore3D show that 30'-45' are sufficient to do these changes and test the resulting code.
