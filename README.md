@@ -13,7 +13,8 @@ This page is merely a landing page to redirect you to the 2D or 3D codes:
 
 **HArDCore3D**
 
-*Coming soon... (hopefully by mid-July). HArDCore3D is built to follow HArDCore2D, so that adapting a code from 2D to 3D only takes a minimal amount of time (it merely consist in changing some "edge" in the code into "faces", etc.)*
+*sources*: https://github.com/jdroniou/HArDCore3D<br>
+*documentation*: https://jdroniou.github.io/HArDCore3D
 
 
 Although these 2D and 3D libraries are separate, they have been designed for an easy adaptation of implementations from one to the other. Typically, if a 2D version of a numerical method is available in which the dimension was not hardcoded as `2` but using the `dim()` method of the Mesh class, adapting it to 3D mostly consists in performing the following changes in the source files:
