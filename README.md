@@ -13,7 +13,7 @@ This page is merely a landing page to redirect you to the 2D or 3D codes:
 
 **HArDCore3D**
 
-*sources*: https://github.com/jdroniou/HArDCore3D<br>
+*sources*: http://users.monash.edu/~jdroniou/releases/ (releases; contact me if you want to participate in the development)<br>
 *documentation*: https://jdroniou.github.io/HArDCore3D
 
 
