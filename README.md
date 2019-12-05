@@ -4,16 +4,16 @@ HArDCore (Hybrid Arbitrary Degree::Core) is a set of two projects providing C++ 
 
 The library was designed with the Hybrid High-Order method in mind (see the book https://hal.archives-ouvertes.fr/hal-02151813), and several HHO methods are already implemented in this framework, but the tools provided in this library are useful for a range of hybrid methods.
 
-This page is merely a landing page to redirect you to the 2D or 3D codes:
+This page is merely a landing page to redirect you to the 2D or 3D codes, whose sources are provided as releases here (contact me if you want to participate in the development):
 
 **HArDCore2D**
 
-*sources*: https://github.com/jdroniou/HArDCore2D<br>
+*sources*: http://users.monash.edu/~jdroniou/releases/ <br>
 *documentation*: https://jdroniou.github.io/HArDCore2D
 
 **HArDCore3D**
 
-*sources*: http://users.monash.edu/~jdroniou/releases/ (releases; contact me if you want to participate in the development)<br>
+*sources*: http://users.monash.edu/~jdroniou/releases/<br>
 *documentation*: https://jdroniou.github.io/HArDCore3D
 
 
