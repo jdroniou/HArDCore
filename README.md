@@ -8,8 +8,8 @@ This page is merely a landing page to redirect you to the 2D or 3D codes, whose 
 
 **HArDCore2D**
 
-*sources*: http://users.monash.edu/~jdroniou/releases/ <br>
-*documentation* (latest release only): http://users.monash.edu/~jdroniou/releases/documentations/HArDCore2D/
+*sources*: https://github.com/jdroniou/HArDCore2D-release <br>
+*documentation* (latest release only): https://jdroniou.github.io/HArDCore2D-release/
 
 **HArDCore3D**
 
