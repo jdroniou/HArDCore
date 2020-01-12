@@ -8,13 +8,13 @@ This page is merely a landing page to redirect you to the 2D or 3D codes, whose 
 
 **HArDCore2D**
 
-*sources*: https://github.com/jdroniou/HArDCore2D-release <br>
+*sources*: https://github.com/jdroniou/HArDCore2D-release/<br>
 *documentation* (latest release only): https://jdroniou.github.io/HArDCore2D-release/
 
 **HArDCore3D**
 
-*sources*: http://users.monash.edu/~jdroniou/releases/<br>
-*documentation* (latest release only): http://users.monash.edu/~jdroniou/releases/documentations/HArDCore3D/
+*sources*: https://github.com/jdroniou/HArDCore3D-release/<br>
+*documentation* (latest release only): https://jdroniou.github.io/HArDCore3D-release/
 
 
 Although these 2D and 3D libraries are separate, they have been designed for an easy adaptation of implementations from one to the other. Typically, if a 2D version of a numerical method is available in which the dimension was not hardcoded as `2` but using the `dim()` method of the Mesh class, adapting it to 3D mostly consists in performing the following changes in the source files:
